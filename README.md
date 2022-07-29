@@ -1,5 +1,5 @@
 # ThreeChannelEqualizer
-This repo contains one .m file with MATLAB code that when run, acts as a three channel equalizer and miniature DJ System that adjusts audio inputted within the software code (In this .m file, it's the Tequila song :)).<br><br><br>
+This repo contains one .m file with MATLAB code that when run, acts as a three channel equalizer and miniature DJ System that adjusts audio inputted within the software code (In this .m file, it's the Tequila song!).<br><br><br>
 
 ## Introduction
 Since the inception of audio production, a variety of tones have been fabricated from recordings of music or articulated words. Some of which are not the most gratifying to listen to, leaving auditors with the urge to modify, or fine-tune, the output of the sound.
